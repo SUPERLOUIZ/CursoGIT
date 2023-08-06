@@ -1,0 +1,8 @@
+ TAC
+DNI:
+CLIENTE:
+telefono:
+IP:
+CONECTADO:
+LOS ROJA
+DIRECCION:       
