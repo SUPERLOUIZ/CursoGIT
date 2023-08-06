@@ -4,5 +4,5 @@ CLIENTE:
 telefono:
 IP:
 CONECTADO:
-LOS ROJA
+LUZ ROJA
 DIRECCION:       
