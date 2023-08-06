@@ -4,5 +4,6 @@ CLIENTE:
 telefono:
 IP:
 CONECTADO:
-LUZ ROJA
+LUZ ROJA.
 DIRECCION:       
+Porfavor su apoyo
