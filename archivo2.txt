@@ -1,3 +1,9 @@
+
+
+
+
+
+
 Porfavor su apoyo con el siguiente caso:
 TAC
 DNI:
@@ -6,4 +12,4 @@ telefono:
 IP:
 CONECTADO:
 LUZ ROJA.
-DIRECCION:       
+DIRECCION: 
